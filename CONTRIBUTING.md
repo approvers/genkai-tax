@@ -38,7 +38,7 @@ approvers/genkai-tax は GitHub Team 機能を使い, 権限を管理してい�
 | `README.md` | [限界財務省][zaimusho] |
 | `CONTRIBUTING.md` | [限界財務省][zaimusho] |
 | `.github/workflows/` 配下 | [@m1sk9][m1sk9] |
-| `accounts/` 配下 (会計報告) | [限界財務省][zaimusho]* |
+| `financial_reporting/` 配下 (会計報告) | [限界財務省][zaimusho]* |
 | `docs/` 配下 (ドキュメント) | [限界財務省][zaimusho] |
 
 これらのファイルに対してプルリクエストを発行した際は, コードオーナーの承認(Approve)が必要です.
@@ -49,7 +49,7 @@ approvers/genkai-tax は GitHub Team 機能を使い, 権限を管理してい�
 
 納税者向けドキュメントは, 限界財務省のメンバーが編集することができます. その他のメンバー(これは外部貢献者も含まれます.) も編集することは可能ですが、[コードオーナー](#コードオーナー) からのレビューと承認が必要です.
 
-ドキュメントは `docs/` 配下に配置されています. これらのドキュメントは GitHub 上で閲覧出来る他、 GitHub Pages でのデプロイにより [tax.approvers.dev](https://tax.approvers.dev) でも閲覧することができます.
+ドキュメントは `docs/` 配下に配置されています. これらのドキュメントは GitHub 上で閲覧出来る他、 GitHub Pages でのデプロイにより [tax.approvers.dev](https://tax-docs.approvers.dev) でも閲覧することができます.
 
 ### Discussions
 
