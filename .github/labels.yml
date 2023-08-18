@@ -26,3 +26,5 @@
 - name: '会計報告'
   description: '会計報告に対するディスカッション'
   color: 'e06e85'
+- name: 'アナウンス'
+  color: 'ff9cff'
